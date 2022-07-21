@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on lanware solutions
-- 🌱 I’m currently lMERN stack developer
+- 🌱 I’m currently MERN stack developer
 - 🤔 I’m looking for help with developers
 - 📫 How to reach me: https://www.instagram.com
 
